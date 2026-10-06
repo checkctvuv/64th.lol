@@ -2,8 +2,8 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/check
 
 local Window = Library:Window({
     Name = "64th.lol",
-    SubTitle = "hay",
-    TimeRemaining = "5 years"
+    SubTitle = "LifeTime",
+    TimeRemaining = "https://discord.gg/qYfn4Euer"
 })
 
 local Pages = { }
