@@ -1,9 +1,9 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/sametexe001/sametlibs/refs/heads/main/lds13/Library.lua"))()
 
 local Window = Library:Window({
-    Name = "Window",
+    Name = "64th.lol",
     SubTitle = "SubName",
-    TimeRemaining = "5 years"
+    TimeRemaining = "hi"
 })
 
 local Pages = { }
