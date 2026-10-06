@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/sametexe001/sametlibs/refs/heads/main/lds13/Library.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/checkctvuv/64th.lol/refs/heads/main/Library.lua"))()
 
 local Window = Library:Window({
     Name = "64th.lol",
